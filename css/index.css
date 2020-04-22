@@ -1,0 +1,60 @@
+p.sub-title1 {
+color: cadetblue;
+}
+p#sub-title2 { 
+ color: blanchedalmond;   
+}
+.company {
+    color: chocolate;
+}
+h1 {
+    color: forestgreen;
+    font-size: 50pt;
+    font-weight: bold;
+}
+div.box {
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    text-align: center;
+    border-radius:50% 50% 0 50%;
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    margin: 10px;
+}
+}
+div.box2 {
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    text-align: center;
+    border-radius:50% 50% 50% 0;
+    position: absolute;
+    left: 115px;
+    top: 10px;
+    margin: 10px;
+}
+div.box3 {
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    text-align: center;
+    border-radius:50% 0 50% 50%;
+    position: absolute;
+    left: 10px;
+    top: 115px;
+    margin: 10px;
+}
+div.box4 {
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    text-align: center;
+    border-radius:0 50% 50% 50%;
+    position: absolute;
+    left: 115px;
+    top: 115px;
+    margin: 10px;
+}
+        
